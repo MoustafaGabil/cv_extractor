@@ -1,0 +1,46 @@
+{
+  "name": "John Smith",
+  "email": "john.smith@example.com",
+  "phone": "+1 234 567 890 1",
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Stanford University",
+      "year": "2018-2020"
+    },
+    {
+      "degree": "Bachelor of Engineering in Software Engineering",
+      "institution": "MIT",
+      "year": "2014-2016"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "year": "2020-present"
+    },
+    {
+      "position": "Software Developer",
+      "company": "Microsoft",
+      "location": "Seattle, WA",
+      "year": "2018-2020"
+    }
+  ],
+  "projects": [
+    "Machine Learning Image Recognition System",
+    "E-commerce Platform Development",
+    "Mobile App for Healthcare"
+  ],
+  "skills": [
+    {
+      "technical": "Python, Java, C++, JavaScript, SQL, AWS, Docker, Kubernetes",
+      "frameworks": "React, Node.js, Django, TensorFlow, PyTorch"
+    },
+    {
+      "soft": "Leadership, Communication, Problem Solving",
+      "languages": "English (Native), Spanish (Fluent), French (Basic)"
+    }
+  ]
+}

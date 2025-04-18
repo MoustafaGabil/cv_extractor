@@ -1,0 +1,108 @@
+{
+  "name": "Adheeba Thahsin",
+  "email": "adeebathahsin@gmail.com",
+  "phone": "+32465276569",
+  "location": "Ghent, Belgium",
+  "linkedin": "linkedin.com/adheeba",
+  "personal_details": {
+    "gender": "Female",
+    "dob": "09/01/1995"
+  },
+  "education": [
+    {
+      "degree": "Master of Technology in Computer Science and Engineering - Information Security",
+      "institution": "National Institute of Technology, Calicut, Kerala",
+      "location": "Kerala, India",
+      "year": "2016-2018",
+      "details": "CGPA: 9.13/10 (First Rank)"
+    },
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "Government Engineering College, Sreekrishnapuram",
+      "location": "Kerala, India",
+      "year": "2012-2016",
+      "details": "CGPA: 8.18/10"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "AI Trainee",
+      "company": "BeCode Ghent",
+      "location": "Ghent, Belgium",
+      "year": "September 2024-present",
+      "description": "Professional training in Artificial Intelligence and Data Engineering"
+    },
+    {
+      "position": "Research Engineer",
+      "company": "IIT BOMBAY",
+      "location": "Mumbai, India",
+      "year": "September 2023 - March 2024",
+      "description": "Implement secure communication between drones and drone to ground station"
+    },
+    {
+      "position": "Project Engineer",
+      "company": "Indian Institute of Technology, BOMBAY",
+      "location": "Mumbai, India",
+      "year": "December 2021 - May 2022",
+      "description": "Design and implementation of fault tolerance methods for the 5G core components such as Access and mobility management function (AMF) and Session management function (SMF)"
+    },
+    {
+      "position": "Project Engineer",
+      "company": "Indian Institute of Technology, BOMBAY",
+      "location": "Mumbai, India",
+      "year": "September 2019 - January 2021",
+      "description": "Worked on the Indigenous 5G Testbed Project funded by the Department of Telecommunication. Development of 5G Core components like AMF, SMF, UPF. Call flow implementation of Session Establishment, Session Modification, Session Release, AN Release, and Service Request"
+    },
+    {
+      "position": "Solution Engineer",
+      "company": "Nokia Networks and Solutions",
+      "location": "India",
+      "year": "June 2018 - August 2019",
+      "description": "Research and automation approach for system administration and installation tasks of NetAct. Installation, integration, performance and fault management adaptation design for NetAct. Automation of work and task time management for JIRA DevOps"
+    }
+  ],
+  "Projects": [
+    {
+      "name": "A Heterogeneous Information Network Model for Long Non-Coding RNA Function Prediction",
+      "guide": "Dr. Gopakumar G, Computer Science and Engineering, NIT Calicut",
+      "description": "This project provides a Computational method for predicting function and disease association of long Non-Coding RNA (lncRNA) in the human body which are found to be affecting cancer. The model predicts the functions of lncRNAs by making use of a meta-path based measure, AvgSim on a Heterogeneous Information Network (HIN)."
+    },
+    {
+      "name": "Automated Music System Based on Facial Expression",
+      "guide": "Associate Professor Sasinas Alias Haritha Z A, Information Technology, GEC Palakkad",
+      "description": "Developed a desktop application to play songs that match the user's current emotional state. A multilayer perceptron (MLP) neural network is trained to predict human emotions based on input data."
+    },
+    {
+      "name": "Revealing Upcoming Topics in Social Network",
+      "guide": "Asst.Prof. Geethu Mary George, Information Technology, GEC Palakkad",
+      "description": "An application that detects emerging topics in the social network during a given time frame. Real-time tweets were collected using the Twitter API. Hashtags, follower count, and retweet count were used to identify emerging topics"
+    },
+    {
+      "name": "Immo Eliza Price Prediction",
+      "guide": "AI Coach. Vanessa Rivera Quiñones, BeCode, Ghent",
+      "description": "The Immo Eliza Price Predictor is a web application deployed on Streamlit that allows users to predict property prices in Belgium based on their specific requirements."
+    },
+    {
+      "name": "Holiday Management System",
+      "guide": "Asst.Prof. Naseer Babu, Computer Science and Engineering, NIT Calicut",
+      "description": "An online web application for simple and easier management of holidays. It helps the users to make touring more exciting and economical by suggesting travel plans based on user budget and time period."
+    }
+  ],
+  "skills": {
+    "programming_languages": ["C", "C++", "Python", "R", "Java", "Shell", "Perl"],
+    "devops": ["JIRA", "Jenkins", "Github", "Git-Gerrit"],
+    "operating_systems": ["Linux", "Windows"],
+    "database": ["MySQL", "PostgreSQL", "Redis"],
+    "ides": ["Visual Studio", "Eclipse", "IntelliJ IDEA"],
+    "build_tools": ["Apache Maven"]
+  },
+  "publications": [
+    "S. Kumar, A. Thahsin, M. M and G. G, \"A Heterogeneous Information Network Model for Long Non-Coding RNA Function Prediction,\" in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2020.3000518."
+  ],
+  "extracurricular": [
+    "Hackerrank 2 bronzes in contests (2018)",
+    "Active participant in college FOSS cell (2015)",
+    "Participated in Inter-school Kho-kho Championships (2011)",
+    "Hobbies and Interests: Craft Work"
+  ]
+} 

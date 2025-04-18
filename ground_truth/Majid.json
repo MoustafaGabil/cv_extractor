@@ -1,0 +1,61 @@
+{
+  "name": "Majid Askary",
+  "email": "m.askary84@yahoo.com",
+  "phone": "+32 479 44 44 30",
+  "location": "Menen, Belgium",
+  "linkedin": "linkedin.com/majidaskary",
+  "github": "github.com/majidaskary",
+  "profile": "Junior Data Scientist with a strong foundation in data analysis, machine learning, and algorithm design. Skilled at solving complex problems, designing efficient algorithms, and transforming raw data into actionable insights. Adept at collaborating with multidisciplinary teams and communicating technical findings to non-technical audiences. Passionate about leveraging data-driven approaches to solve real-world challenges and continuously expanding technical expertise.",
+  "education": [],
+  "work experience": [
+    {
+      "position": "Administrator",
+      "company": "Ghent Handling & Distribution NV (KatoenNatie)",
+      "location": "Gent, Belgium",
+      "year": "January 2022 - March 2024",
+      "responsibilities": []
+    },
+    {
+      "position": "Team Leader, BSO, Receiver, Picker",
+      "company": "General Service Antwerpen (KatoenNatie)",
+      "location": "Antwerpen, Belgium",
+      "year": "July 2019 - December 2021",
+      "responsibilities": []
+    },
+    {
+      "position": "Sales Manager",
+      "company": "Asian Gohar-Gostaran Gemological Institute",
+      "location": "Shiraz, Iran",
+      "year": "October 2016 - July 2017",
+      "responsibilities": []
+    },
+    {
+      "position": "IT Expert",
+      "company": "Dehkhoda School",
+      "location": "Shiraz, Iran",
+      "year": "September 2014 - May 2015",
+      "responsibilities": []
+    }
+  ],
+  "Projects": [
+    {
+      "name": "ImmoEliza Project",
+      "description": "Built a data pipeline (web scraping, EDA, ML, FastAPI, and deployment) to make price predictions of the Belgian real-estate market using Python"
+    },
+    {
+      "name": "Delivery Market Analysis",
+      "description": "Analysis with SQL"
+    }
+  ],
+  "skills": [
+    "Data Analysis",
+    "Machine Learning",
+    "Algorithm Design",
+    "Problem Solving",
+    "Python",
+    "Complex Problem Solving",
+    "Multidisciplinary Team Collaboration",
+    "Technical Communication",
+    "Data-driven Approaches"
+  ]
+} 

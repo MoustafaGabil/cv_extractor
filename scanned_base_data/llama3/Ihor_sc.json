@@ -1,0 +1,52 @@
+{
+  "name": "Ihor Afanasiev",
+  "email": "ihor-afanasiev.1654@gmail.com",
+  "phone": "+32 4652787818",
+  "education": [
+    {
+      "degree": "",
+      "institution": "Kharkiv National University of Radio Electronics",
+      "year": "Sep 2016 - Jun 2019"
+    },
+    {
+      "degree": "",
+      "institution": "Kharkiv Radio Technical College",
+      "year": "Sep 2012 - Jun 2016"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Data Engineering Trainee",
+      "company": "BeCode, Gent, Belgium",
+      "location": "",
+      "year": "Sep 2024 - present"
+    },
+    {
+      "position": "Roofer",
+      "company": "Selfemployment, Belgium",
+      "location": "",
+      "year": "Oct 2023 - March 2024"
+    },
+    {
+      "position": "Passenger handling agent",
+      "company": "Interavia LLC, Kharkiv - Ukraine",
+      "location": "",
+      "year": "Apr 2018 - Oct 2021"
+    }
+  ],
+  "Projects": [
+    "ImmoEliza Price Prediction Project",
+    "Proximus Use Case: Automated anti-phishing campaign using GeminiAPI and GoPhish",
+    "Movie Recommendation System with PySpark"
+  ],
+  "skills": [
+    {
+      "technical": "Python, SQL, HTML, CSS, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV, BeautifulSoup, Selenium, SQLAIchemy, Django ORM, FastAPI, Django",
+      "frameworks": ""
+    },
+    {
+      "soft": "Communication & Teamwork, Problem-Solving & Critical Thinking, Adaptability & Continuous Learning",
+      "languages": "English (Professional), Dutch (B1), Ukrainian, Russian"
+    }
+  ]
+}

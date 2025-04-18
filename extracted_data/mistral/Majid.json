@@ -1,0 +1,87 @@
+{
+  "name": "Majid Askary",
+  "email": "m.askary84@yahoo.com",
+  "phone": "+32 479 44 44 30",
+  "education": [
+    {
+      "degree": "Master - Artificial Intelligence",
+      "institution": "Science and Research Branch University, Tehran, Iran",
+      "years": "September 2011 - December 2016"
+    },
+    {
+      "degree": "Bachelor - Computer Software",
+      "institution": "Azad University, Sepidan, Iran",
+      "years": "September 2005 - September 2008"
+    }
+  ],
+  "certifications": [
+    {
+      "certification": "AI & Data Science",
+      "institution": "BeCode, Gent, Belgium",
+      "years": "September 2024 - April 2025"
+    },
+    {
+      "certification": "AWS",
+      "years": "April 2025"
+    },
+    {
+      "certification": "Azure (AZ-900)",
+      "institution": "DataCamp",
+      "years": "December 2024"
+    }
+  ],
+  "hard_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "SQL",
+    "NoSQL",
+    "AWS",
+    "Azure",
+    "Power BI",
+    "Excel",
+    "Git-GitHub",
+    "Statistic",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "Generative AI"
+  ],
+  "soft_skills": [
+    "Problem-Solving",
+    "Critical Thinking",
+    "Algorithm Design",
+    "Analytical Thinking",
+    "Adaptability",
+    "Collaboration",
+    "Communication",
+    "Curiosity",
+    "Time Management",
+    "Attention to Detail",
+    "Leadership"
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "level": "native"
+    },
+    {
+      "language": "English",
+      "level": "professional"
+    },
+    {
+      "language": "Dutch",
+      "level": "basic / A2"
+    },
+    {
+      "language": "French",
+      "level": "basic / A2"
+    }
+  ],
+  "hobbies": [
+    "Travel",
+    "Gemology",
+    "Photography"
+  ]
+}

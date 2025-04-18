@@ -1,0 +1,43 @@
+{
+  "name": "John Smith",
+  "email": "john.smith@example.com",
+  "phone": "+1 234-567-890",
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Stanford University",
+      "year": "2018-2021"
+    },
+    {
+      "degree": "Bachelor of Engineering in Software Engineering",
+      "institution": "MIT",
+      "year": "2014-2018"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "year": "2021-Present"
+    },
+    {
+      "position": "Software Developer",
+      "company": "Microsoft",
+      "location": "Seattle, WA",
+      "year": "2016-2022"
+    }
+  ],
+  "skills": [
+    "Python language: Proficient",
+    "Java, C/C++, JavaScript: Familiar",
+    "Django, Django Rest framework: Experienced",
+    "HTML, CSS, JavaScript: Proficient",
+    "PostgreSQL, OOP, Data Structures and Algorithms: Advanced",
+    "Time Management: Strong",
+    "Teamwork: Excellent",
+    "Problem-solving: Expert"
+  ],
+  "language": "English",
+  "professional_proficiency": "Expert"
+}

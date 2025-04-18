@@ -1,0 +1,79 @@
+{
+  "name": "IHOR AFANASIEV",
+  "email": "ihor.afanasiev.1654@gmail.com",
+  "phone": "+32465278718",
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science and Information Technology",
+      "institution": "Kharkiv National University of Radio Electronics",
+      "year": "Sep 2016 - Jun 2019"
+    },
+    {
+      "degree": "Maintenance of Computer Systems and Networks",
+      "institution": "Kharkiv Radio Technical College",
+      "year": "Sep 2012 - Jun 2016"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Data Engineering Trainee",
+      "company": "BeCode,Gent, Belgium",
+      "year": "Sep 2024 - present"
+    },
+    {
+      "position": "Roofer",
+      "company": "Selfemployment, Belgium",
+      "year": "Oct 2023 -March 2024"
+    },
+    {
+      "position": "Passenger handling agent",
+      "company": "Interavia LLC, Kharkiv - Ukraine",
+      "year": "Apr 2018 - Oct 2021"
+    }
+  ],
+  "tech_skills": {
+    "programming_languages": [
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "python_libraries_frameworks": [
+      "Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV",
+      "BeautifulSoup, Selenium"
+    ],
+    "orms": [
+      "SQLAIchemy, Django ORM"
+    ],
+    "web_frameworks": [
+      "FastAPI, Django"
+    ],
+    "devops_workflow_management": [
+      "Git, GitHub",
+      "CI/CD: GitHub Actions",
+      "Apache Airflow",
+      "Docker, Kubernetes (K8s)"
+    ],
+    "cloud_services": [
+      "AWS, Azure"
+    ],
+    "software_engineering_concepts": [
+      "Object-Oriented Programming (QOP)",
+      "Web services and REST API development",
+      "Data Structures and Algorithms"
+    ],
+    "operating_systems_tools": [
+      "Linux terminal (Bash, shell scripting)"
+    ],
+    "languages": [
+      "English (Professional)",
+      "Dutch (B1)",
+      "Ukrainian, Russian (Native)"
+    ]
+  },
+  "personal_skills": {
+    "communication_teamwork": "",
+    "problem_solving_critical_thinking": "",
+    "adaptability_continuous_learning": ""
+  }
+}

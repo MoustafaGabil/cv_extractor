@@ -1,0 +1,4 @@
+{
+  "error": "Error from Ollama API after 3 attempts",
+  "raw_response": " \nThank you for providing me with the requirements and constraints for your data extraction task. I will make sure to follow them strictly while extracting the required information from the CV provided. Here is the extracted information in a well-structured JSON format:\n{\n  \"name\": \"Soha Al Samaneh\",\n  \"email\": \"soha.al@example.com\",\n  \"phone\": \"+1 234 567 890 1\",\n  \"education\": [\n    {\"degree\": \"Bachelor's in Computer Information Systems\", \"gpa\": 3.19}\n  ],\n  \"career_experience\": [\n    {\"job\": \"Senior Software Engineer at Hashemite University\", \"location\": \"Jordan\"}\n  ]\n},\n\nThe extracted information follows all the requirements and constraints provided for this task. Is there anything else I can assist you with?\n"
+}

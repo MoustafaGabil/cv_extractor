@@ -1,0 +1,85 @@
+{
+  "name": "Urson Callens",
+  "email": "",
+  "phone": "",
+  "education": [
+    {
+      "degree": "AI & Data Science Trainee",
+      "institution": "BeCode",
+      "location": "Belgium",
+      "year": "2024-2025"
+    },
+    {
+      "degree": "Postgraduate Digital Business Analyst",
+      "institution": "VIVES Business School Bruges",
+      "location": "Belgium",
+      "year": "2023"
+    },
+    {
+      "degree": "MBA International and Sustainable Finance",
+      "institution": "KU Leuven",
+      "location": "Belgium",
+      "year": "2017-2020",
+      "details": "Thesis: 'Flemish Household Willingness to Pay for Critical Peak Pricing'"
+    },
+    {
+      "degree": "Extended Master Programma - MBA in Sustainable Finance",
+      "institution": "IIM Bangalore",
+      "location": "India",
+      "year": "2019-2020"
+    },
+    {
+      "degree": "Bachelor in Marketing",
+      "institution": "University School of Ghent",
+      "location": "Belgium",
+      "year": "2014-2017"
+    },
+    {
+      "degree": "Student as Mentor",
+      "institution": "University Ghent",
+      "location": "Belgium",
+      "year": "2016"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Student as Mentor",
+      "institution": "University Ghent",
+      "location": "Belgium"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Market Intelligence Analyst",
+      "company": "TVH Parts",
+      "location": "Waregem",
+      "year": "2021-2024",
+      "responsibilities": [
+        "Monitored key competitors in the machinery and spare parts industry through comprehensive data analysis",
+        "Delivered actionable insights to senior stakeholders in Pricing, M&A, Sales, and Marketing",
+        "Identified and leveraged commercial opportunities to boost global competitiveness",
+        "Streamlined workflows and automated routine processes, reducing manual tasks"
+      ]
+    }
+  ],
+  "projects": [],
+  "skills": [
+    "Python (Intermediate)",
+    "SQL (Intermediate)",
+    "Tableau (Proficient)",
+    "MS Excel (Advanced)",
+    "MS Office (Proficient)",
+    "Confluence & JIRA (Proficient)",
+    "Dutch (Native)",
+    "English (Advanced)",
+    "French (Proficient)",
+    "Data Analysis",
+    "Problem-solving",
+    "Creativity",
+    "Quantitative analysis"
+  ],
+  "interests": [
+    "Composing piano music and producing electronic music",
+    "Traveling and cross-cultural experiences (Taiwan, India, Brazil, Sri Lanka, Japan, etc.)"
+  ]
+} 

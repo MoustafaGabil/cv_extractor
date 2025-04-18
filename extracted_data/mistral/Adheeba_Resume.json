@@ -1,0 +1,32 @@
+{
+  "full_name": "Aditi Thahsin",
+  "email": "[redacted]",
+  "current_position": "Research Engineer, IIT Bombay",
+  "recent_work_experience": [
+    {
+      "company": "IIT Bombay",
+      "duration": "September 2023 - March 2024"
+    },
+    {
+      "company": "Indian Institute of Technology, BOMBAY",
+      "duration": "December 2021 - May 2022"
+    }
+  ],
+  "technical_skills": [
+    "Programming Languages: C, C++, Python, R, Java, Shell, Perl",
+    "DevOps: JIRA, Jenkins, Github, Git-Gerrit",
+    "Operating Systems: Linux, Windows",
+    "Database: MySQL, PostgreSQL, Redis",
+    "IDEs: Visual Studio, Eclipse, IntelliJ IDEA",
+    "Build Automation Tool: Apache Maven"
+  ],
+  "publications": [
+    {
+      "title": "A Heterogeneous Information Network Model for Long Non-Coding RNA Function Prediction",
+      "authors": [
+        "S. Kumar, A. Thahsin, M. M and G. G"
+      ],
+      "journal": "IEEE/ACM Transactions on Computational Biology and Bioinformatics"
+    }
+  ]
+}

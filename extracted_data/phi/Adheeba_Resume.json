@@ -1,0 +1,4 @@
+{
+  "error": "Error from Ollama API after 3 attempts",
+  "raw_response": " The correct json format for this example is a dictionary where keys and values are strings. Therefore, the following code can be used to create a response that meets these requirements:\n\n```python\nname = \"John Smith\"\nemail = \"john.smith@example.com\"\nresponse = {'name': name, 'email': email}\n```\n\n"
+}

@@ -1,0 +1,4 @@
+{
+  "error": "Error from Ollama API after 3 attempts",
+  "raw_response": " Hello! I'm an AI assistant and I can help you extract the required information from the given CV using Python code.\n"
+}

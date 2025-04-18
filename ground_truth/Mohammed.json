@@ -1,0 +1,94 @@
+{
+  "name": "Mohammed Jbeil",
+  "email": "mohammedjbeil9@gmail.com",
+  "phone": "+201153427473",
+  "location": "Egypt (Open to relocate)",
+  "github": "github.com/Jpeilx",
+  "linkedin": "linkedin.com/in/mohammed-jbeil",
+  "education": [
+    {
+      "degree": "Bachelor's degree in computer and systems Engineering",
+      "institution": "Zagazig University",
+      "location": "Zagazig, Egypt",
+      "year": "Sept 2019 - June 2024",
+      "details": [
+        "CS technical member at IEEE Zagazig Student Chapter",
+        "Courses: computer organization, operating systems, Data structure and Algorithms, Object-oriented programming, Learning Skills through Case Studies"
+      ]
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Software Engineer || Flutter Developer",
+      "company": "MysteryHike",
+      "location": "Czech Republic (Remote)",
+      "year": "Sept 2024 - current",
+      "responsibilities": [
+        "Migrated Mapping System: Transitioned the app's mapping infrastructure to Mapbox for Flutter, enabling advanced geolocation features and improving scalability",
+        "Developed Dynamic Map Reveal Feature: Implemented an engaging map reveal system that dynamically unfolds as users explore, enhancing interactivity and user engagement",
+        "Optimized POI Rendering: Enhanced the rendering of Points of Interest (POI) for secret and discovered places, improving performance and visual clarity",
+        "Optimized Performance: Improved overall app responsiveness and performance to deliver a seamless user experience during GPS-driven real-world exploration",
+        "Technologies used: Flutter framework, clean Architecture, Bloc/cubit as State Management, Firebase/Firestore technologies, Mapbox integration, GeoJSON file handling, Responsive Flutter UI, Error Handling, Dependency Injection and singleton pattern"
+      ]
+    },
+    {
+      "position": "Software Engineer || Flutter Developer",
+      "company": "Freelancer",
+      "location": "Saudi Arabia (Remote)",
+      "year": "June 2023 - August 2024",
+      "responsibilities": [
+        "Collaborated closely with clients to understand project objectives and requirements",
+        "Developed cross-platform mobile applications using Flutter and Dart and ensuring responsive design across various devices and screen sizes",
+        "Assisted with testing, bug fixing, debugging to optimize app performance",
+        "Technologies used: Flutter framework, MVVM and clean Architecture, Firebase/Firestore technologies, RESTful APIs, Google Maps / Mapbox integration, Bloc as State Management, Dependency Injection and singleton pattern"
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "name": "Hyper Deal",
+      "description": "A smart shopping app that helps users find the best supermarket deals and save money on groceries in Kuwait",
+      "features": [
+        "Users can search for products by category or name, compare prices across multiple stores, and share deals or shopping lists with friends and family",
+        "The app ensures that users always get the best prices available, making informed shopping decisions easier and more convenient"
+      ],
+      "technologies": "Flutter framework, MVVM and clean Architecture, Bloc as State Management, RESTful APIs, Responsive Flutter UI, pagination, Error Handling, CI/CD, Dependency Injection and singleton pattern"
+    },
+    {
+      "name": "School Go",
+      "description": "An app that helps both schools and parents track the safety of students during their school bus trip",
+      "features": [
+        "Driver Part: Helps to track the bus movement at all times, in regard to route and speed and manage students picking and dropping status",
+        "Parent Part: Track the bus movement to know exactly when it will reach the desired destination using Google Maps, get notifications about students, inform school about absence, change pickup/drop-off points"
+      ],
+      "technologies": "Flutter framework, clean Architecture, Firebase technologies, Notifications handling, Google Maps APIs, Bloc as State Management, RESTful APIs, Responsive Flutter UI, pagination, Error Handling, Dependency Injection and singleton pattern"
+    }
+  ],
+  "Contributions": [
+    {
+      "name": "Voice message package",
+      "description": "Voicey is a flutter package to play voice messages in chats with seeking capability by dragging on voice noises"
+    }
+  ],
+  "skills": {
+    "programming_languages": ["Dart", "C/C++", "Java"],
+    "technologies": [
+      "Flutter Framework",
+      "Firebase",
+      "Google Maps/Mapbox integration",
+      "RESTful APIs",
+      "SOLID Principles",
+      "MVVM",
+      "Clean Architecture",
+      "Bloc State Management",
+      "Git/GitHub",
+      "CI/CD",
+      "Agile Methodology",
+      "OOP",
+      "Data Structures",
+      "Algorithms",
+      "Dependency Injection",
+      "Singleton Pattern"
+    ]
+  }
+} 

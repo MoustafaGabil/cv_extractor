@@ -1,0 +1,40 @@
+{
+  "name": "John Doe",
+  "email": "youremail@yourdomain.com",
+  "phone": "0541 999 99 99",
+  "location": "Your Location",
+  "website": "yourwebsite.com",
+  "education": [
+    {
+      "degree": "BS, Computer Science",
+      "institution": "University of Pennsylvania",
+      "location": "",
+      "year": "Sept 2000 - May 2005",
+      "details": "GPA: 3.9/4.0, Coursework: Computer Architecture, Comparison of Learning Algorithms, Computational Theory"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Software Engineer",
+      "company": "Apple",
+      "location": "",
+      "year": "June 2005 - Aug 2007",
+      "responsibilities": [
+        "Reduced time to render user buddy lists by 75% by implementing a prediction algorithm",
+        "Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts",
+        "Redesigned chat file format and implemented backward compatibility for search"
+      ]
+    },
+    {
+      "position": "Software Engineer Intern",
+      "company": "Microsoft",
+      "location": "",
+      "year": "",
+      "responsibilities": [
+        "Designed a UI for the VS open file switcher"
+      ]
+    }
+  ],
+  "Projects": [],
+  "skills": []
+} 

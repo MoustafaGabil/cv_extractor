@@ -1,0 +1,38 @@
+{
+  "name": "John Doe",
+  "email": "youremail@yourdomain.com",
+  "phone": "05419999999",
+  "education": [
+    {
+      "degree": "BS",
+      "institution": "University of Pennsylvania",
+      "year": "Sept 2000 - May 2005"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Software Engineer",
+      "company": "Apple",
+      "location": "Cupertino, CA",
+      "year": "June 2005 ~ Aug 2007"
+    },
+    {
+      "position": "Software Engineer Intern",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "year": "June 2003 - Aug 2003"
+    }
+  ],
+  "Projects": [],
+  "Publications": [
+    {
+      "title": "3D Finite Element Analysis of No-Insulation Coils",
+      "authors": [
+        "Frodo Baggins",
+        "John Doe",
+        "Samwise Gamgee"
+      ],
+      "year": "Jan 2004"
+    }
+  ]
+}

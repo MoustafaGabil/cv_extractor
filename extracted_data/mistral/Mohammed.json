@@ -1,0 +1,18 @@
+{
+  "name": "Mohammed",
+  "email": "",
+  "projects": [
+    {
+      "name": "Hyper Deal",
+      "description": "A smart shopping app that helps users find the best supermarket deals and save money on groceries."
+    },
+    {
+      "name": "School Go",
+      "description": "An app that helps schools and parents track student safety during school bus trips."
+    }
+  ],
+  "technical_skills": [
+    "Programming Languages : Dart, C/C++, Java",
+    "Technologies : Flutter Framework, Firebase, Google Maps/Mapbox integration, RESTful APIs, SOLID Principles, MVVM, Clean Architecture, Bloc State Management, Git/GitHub, CI/CD, Agile Methodology, OOP, Data Structures, Algorithms, Dependency Injection, Singleton Pattern."
+  ]
+}

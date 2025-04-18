@@ -1,0 +1,40 @@
+{
+  "name": "Mohammed Jbeil",
+  "email": "mohammedjbeil9@gmail.com",
+  "phone": "+201153427473",
+  "education": [
+    {
+      "degree": "Bachelor's degree in computer and systems Engineering",
+      "institution": "Zagazig University",
+      "year": "Sept 2019 - June 2024"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Software Engineer || Flutter Developer",
+      "company": "MysteryHike (Remote)",
+      "location": "Czech Republic",
+      "year": "Sept 2024 - current"
+    },
+    {
+      "position": "Software Engineer || Flutter Developer",
+      "company": "Freelancer (Remote)",
+      "location": "Saudi Arabia",
+      "year": "June 2023 - August 2024"
+    }
+  ],
+  "Projects": [
+    "Hyper Deal [Google Play link]",
+    "School Go [Google Play link] [App Store link]"
+  ],
+  "skills": [
+    {
+      "technical": "Dart, C/C++, Java, Flutter Framework, Firebase, Google Maps/Mapbox integration, RESTful APIs",
+      "frameworks": ""
+    },
+    {
+      "soft": "Leadership, Communication, Problem Solving",
+      "languages": "English (Native), Spanish (Fluent), French (Basic)"
+    }
+  ]
+}

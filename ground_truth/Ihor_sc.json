@@ -1,0 +1,95 @@
+{
+  "name": "Ihor Afanasiev",
+  "email": "ihor.afanasiev.1654@gmail.com",
+  "phone": "+32465278718",
+  "location": "Sint-Niklaas, België",
+  "linkedin": "ihor-afanasiev",
+  "github": "Ihor1654",
+  "education": [
+    {
+      "institution": "Kharkiv National University of Radio Electronics",
+      "degree": "Bachelor of Computer Science and Information Technology",
+      "dates": "Sep 2016 – Jun 2019"
+    },
+    {
+      "institution": "Kharkiv Radio Technical College",
+      "degree": "Maintenance of Computer Systems and Networks",
+      "dates": "Sep 2012 – Jun 2016"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Data Engineering Trainee",
+      "company": "BeCode",
+      "location": "Gent, Belgium",
+      "dates": "Sep 2024 - present",
+      "responsibilities": [
+        "ImmoEliza Price Prediction Project – Developed an automated pipeline for predicting Belgian real estate market prices using Airflow and Kubernetes",
+        "Proximus Use Case: Automated anti-phishing campaign using GeminiAPI and GoPhish",
+        "Movie Recommendation System with PySpark"
+      ]
+    },
+    {
+      "title": "Roofer",
+      "company": "Self-employment",
+      "location": "Belgium",
+      "dates": "Oct 2023 - March 2024",
+      "responsibilities": []
+    },
+    {
+      "title": "Passenger handling agent",
+      "company": "Interavia LLC",
+      "location": "Kharkiv, Ukraine",
+      "dates": "Apr 2018 - Oct 2021",
+      "responsibilities": [
+        "Responsible for passenger check-in, meet-and-greet, and boarding operations",
+        "Performed the duties of Duty Station Manager and Ground Handling Dispatcher",
+        "Acted as a Supervisor for various international airlines"
+      ]
+    }
+  ],
+  "projects": [],
+  "skills": {
+    "programming_languages": ["Python", "SQL", "HTML", "CSS"],
+    "python_libraries": [
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Matplotlib",
+      "Seaborn",
+      "OpenCV",
+      "BeautifulSoup",
+      "Selenium",
+      "SQLAlchemy",
+      "Django ORM",
+      "FastAPI",
+      "Django"
+    ],
+    "devops": [
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "Apache Airflow",
+      "Docker",
+      "Kubernetes (K8s)",
+      "AWS",
+      "Azure"
+    ],
+    "concepts": [
+      "Object-Oriented Programming (OOP)",
+      "Web services and REST API development",
+      "Data Structures and Algorithms"
+    ],
+    "tools": ["Linux terminal", "Bash", "Shell scripting"],
+    "languages": [
+      "English (Professional)",
+      "Dutch (B1)",
+      "Ukrainian (Native)",
+      "Russian (Native)"
+    ],
+    "personal": [
+      "Problem-Solving & Critical Thinking",
+      "Adaptability & Continuous Learning"
+    ]
+  }
+} 

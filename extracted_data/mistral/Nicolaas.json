@@ -1,0 +1,64 @@
+{
+  "name": "Nicolaas de Clercq",
+  "email": "nicolaasdeclercq@hotmail.com",
+  "phone": "+32 474 / 17 86 16",
+  "education": [
+    {
+      "degree": "Concrete Technologist",
+      "institution": "Belgische Betongroepering",
+      "year": "2021"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Data engineering trainee",
+      "company": "BeCode, Ghent",
+      "location": "",
+      "year": "2024-2025"
+    },
+    {
+      "position": "Lab assistant",
+      "company": "EOC Group, Oudenaarde",
+      "location": "",
+      "year": "2022-2024"
+    },
+    {
+      "position": "Lab and Quality Officer",
+      "company": "Aannemingen De Witte, Aalter",
+      "location": "",
+      "year": "2020-2022"
+    },
+    {
+      "position": "Concrete Laboratory Technician",
+      "company": "OBBC, Oosterzele",
+      "location": "",
+      "year": "2019-2020"
+    },
+    {
+      "position": "QC Laboratory Technician",
+      "company": "DL Chemicals, Waregem",
+      "location": "",
+      "year": "2016-2019"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Databases (SQL, NoSQL)",
+    "Cloud basics (AWS, Azure)",
+    "ETL automation (Airflow, Spark, Kubernetes)"
+  ],
+  "languages": [
+    {
+      "name": "Dutch",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Advanced"
+    },
+    {
+      "name": "French",
+      "level": "Proficient"
+    }
+  ]
+}

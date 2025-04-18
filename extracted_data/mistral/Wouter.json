@@ -1,0 +1,42 @@
+{
+  "name": "Name not provided",
+  "email": "",
+  "languages": [
+    "Dutch",
+    "Russian",
+    "Spanish"
+  ],
+  "professional_skills": [
+    "Full stack developer",
+    "Data Collection and Data Analysis",
+    "Co-founder and advisor for crypto",
+    "Answering questions and solving doubts of new partners",
+    "Complaint handling from hotels and customers",
+    "Creating and updating business reports",
+    "Founding member of Sport&Social club and Evolve"
+  ],
+  "technical_skills": [
+    "Python",
+    "Power BI Ruby",
+    "Tensorflow",
+    "Deep Learning",
+    "Scikit-Learn",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "CNN"
+  ],
+  "education": [
+    {
+      "degree": "Master in Master Modern History",
+      "university": "Erasmus (Modern History)"
+    }
+  ],
+  "experience_summary": "Not provided",
+  "location": [
+    "Bruges",
+    "Tourcoing",
+    "Greenock / Dublin",
+    "Madrid"
+  ]
+}

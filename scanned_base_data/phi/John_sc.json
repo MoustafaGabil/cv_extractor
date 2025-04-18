@@ -1,0 +1,4 @@
+{
+  "error": "Error from Ollama API after 3 attempts",
+  "raw_response": " Sure, I'd be happy to help you extract information from a CV. Can you provide me with the CV as a YAML file?\n"
+}

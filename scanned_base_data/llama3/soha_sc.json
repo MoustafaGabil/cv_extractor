@@ -1,0 +1,47 @@
+{
+  "name": "Soha Al Samaneh",
+  "email": "soha.ms84@gmail.com",
+  "phone": "+32 471607604",
+  "education": [
+    {
+      "degree": "Bachelor's in Computer Information Systems",
+      "institution": "Hashemite University, Jordan",
+      "year": "2006"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "iHorizons, Jordan",
+      "location": "",
+      "year": "Feb 2014 \u2014- Sep 2015"
+    },
+    {
+      "position": "Senior Software Engineer",
+      "company": "Aspire-Services, Jordan",
+      "location": "",
+      "year": "May 2008 - Dec 2013"
+    },
+    {
+      "position": "Web Developer",
+      "company": "Aspire-Services, Jordan",
+      "location": "",
+      "year": "June 2007 - May 2008"
+    }
+  ],
+  "Projects": [
+    "Belgium Real Estate Price Analysis: Predictive Model for Belgian Real Estate Prices",
+    "Delivery Market Analysis: Conducted regional delivery data analysis using SQL and Python and generated insights to support market-user strategies.",
+    "Credit Card Churn Prediction: Built a classification ML model to predict customer churn and analyze churning patterns based on credit card data."
+  ],
+  "skills": [
+    {
+      "technical": "Pandas, NumPy, Matplotlib, Seabom, Scikit-learn, Power BI, GenAl, Python, ASP .NET, C#, MVC, VB.NET, PL/SQL, Oracle 10g, JavaScript, JQuery, Flex 3.3, HTML, CSS, Ajax",
+      "frameworks": ""
+    },
+    {
+      "soft": "Analytical thinking and problem-solving, Strong team collaboration, team player and highly cooperative, Self-dependent & keen on learning new skills",
+      "languages": "Arabic (native), English (very good), Dutch (CVO-B1)"
+    }
+  ]
+}

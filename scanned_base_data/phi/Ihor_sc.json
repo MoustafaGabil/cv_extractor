@@ -1,0 +1,4 @@
+{
+  "error": "Error from Ollama API after 3 attempts",
+  "raw_response": " Hello, my name is Assistant. I am an AI language model trained to help with your tasks.\n"
+}

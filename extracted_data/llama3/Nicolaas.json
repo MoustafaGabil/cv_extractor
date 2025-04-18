@@ -1,0 +1,50 @@
+{
+  "name": "Nicolaas De Clercq",
+  "email": "nicolaasdeclercq@hotmail.com",
+  "phone": "+32 474 / 17 86 16",
+  "education": [
+    {
+      "degree": "",
+      "institution": "Belgische Betongroepering",
+      "year": "2021"
+    },
+    {
+      "degree": "Bachelor in Chemistry",
+      "institution": "Technician in Fermentation Processes: Beers Kaho Sint-Lieven, Ghent CVO Panta Rhei, Merelbeke Education 2009 - 2013",
+      "year": ""
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Lab and Quality Officer",
+      "company": "Aannemingen De Witte, Aalter",
+      "location": "",
+      "year": "2019-2020"
+    },
+    {
+      "position": "Concrete Laboratory Technician",
+      "company": "OBBC, Oosterzele",
+      "location": "",
+      "year": "2016-2019"
+    },
+    {
+      "position": "QC Laboratory Technician",
+      "company": "DL Chemicals, Waregem",
+      "location": "",
+      "year": "2014-2016"
+    }
+  ],
+  "Projects": [
+    ""
+  ],
+  "skills": [
+    {
+      "technical": "Python, webscraping, data manipulation (Pandas, NumPy), API development (FastAPI, Flask), and Docker.",
+      "frameworks": ""
+    },
+    {
+      "soft": "",
+      "languages": "Dutch: Native, English: Advanced, French: Proficient"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Wouter Verhaeghe",
+  "email": "wouter_verhaeghe@hotmail.com",
+  "phone": "+32 496 84 90 01",
+  "education": [
+    {
+      "degree": "Data Science & AI",
+      "institution": "Le Wagon and BeCode",
+      "location": "",
+      "year": "01/2024 - 04/2025"
+    },
+    {
+      "degree": "",
+      "institution": "Le Wagon",
+      "location": "",
+      "year": "10/2018 - 12/2018"
+    },
+    {
+      "degree": "Erasmus (Modern History)",
+      "institution": "University of Exeter",
+      "location": "",
+      "year": "09/2002 - 06/2003"
+    },
+    {
+      "degree": "Master in Master Modern History",
+      "institution": "Katholieke Universiteit Leuven",
+      "location": "",
+      "year": "09/2000 - 06/2004"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Full stack developer",
+      "company": "Lichtvis",
+      "location": "Bruges",
+      "year": "01/2019 - 09/2023",
+      "responsibilities": [
+        "Data Collection and Data Analysis: forecast for warehouse space, amount of staff etc",
+        "Full Stack developer (Ruby): created web application BibInform used by 5 book stores and dozens of libraries in Flanders"
+      ]
+    },
+    {
+      "position": "Warehouse Manager",
+      "company": "",
+      "location": "Bruges",
+      "year": "06/2021 - 05/2022",
+      "responsibilities": [
+        "Responsible for day-to-day work, planning, organising, purchasing, HR",
+        "Led a team of up to 35 students and other staff in the warehouse"
+      ]
+    },
+    {
+      "position": "Co-founder",
+      "company": "Pamogi",
+      "location": "",
+      "year": "04/2012 - 12/2018",
+      "responsibilities": [
+        "Co-founder and advisor for crypto, pre-sales, blockchain and the white paper for this startup until the pivot away from crypto"
+      ]
+    },
+    {
+      "position": "Customer and Accommodation Service Executive",
+      "company": "Booking.com",
+      "location": "Tourcoing",
+      "year": "10/2009 - 07/2011",
+      "responsibilities": [
+        "Answered questions and solved doubts of new partners, guided them through their application process",
+        "Complaint handling from hotels and customers and negotiating between guests and hotels"
+      ]
+    },
+    {
+      "position": "Risk Management Administrator",
+      "company": "Dun & Bradstreet",
+      "location": "Greenock / Dublin",
+      "year": "03/2006 - 06/2007",
+      "responsibilities": [
+        "Creating and updating business reports for the Luxembourg market",
+        "Gathering and processing correct data by searching online, reading financial papers, analysing them"
+      ]
+    },
+    {
+      "position": "Customer Fulfillment Administrator",
+      "company": "IBM",
+      "location": "Madrid",
+      "year": "",
+      "responsibilities": [
+        "Direct point of contact of IBM's biggest customers in Benelux",
+        "Problem solving and social contact"
+      ]
+    }
+  ],
+  "Projects": [
+    "BibInform - web application used by 5 book stores and dozens of libraries in Flanders",
+    "Machine Learning Image Recognition System"
+  ],
+  "skills": [
+    "Python",
+    "Tensorflow",
+    "Scikit-Learn",
+    "Pandas", 
+    "Numpy",
+    "SQL",
+    "Power BI",
+    "Ruby",
+    "Deep Learning",
+    "CNN",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Data Analysis",
+    "Problem Solving",
+    "Organizing",
+    "Dutch (Native)",
+    "English (Intermediate)",
+    "French (Intermediate)",
+    "Russian (Proficient)",
+    "Spanish (Intermediate)"
+  ]
+} 

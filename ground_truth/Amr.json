@@ -1,0 +1,67 @@
+{
+  "name": "Amr Gebil",
+  "email": "amrgebil7@gmail.com",
+  "phone": "+201151762384",
+  "education": [
+    {
+      "degree": "Bachelor's degree in computer science and software Engineering",
+      "institution": "Zagazig University",
+      "location": "Zagazig, Egypt",
+      "year": "Sept 2019 - June 2023",
+      "details": "GPA: 3.41"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Mid level - Odoo Developer (Full Time)",
+      "company": "Nasser Al Sultan Holding Company",
+      "location": "Cairo, Egypt",
+      "year": "Sept 2024 - present",
+      "responsibilities": [
+        "Design, Development research and testing of Odoo modules, projects, products and interfaces",
+        "Configuration, installation and maintenance of server",
+        "Design and develop Odoo apps (new module development, customization)"
+      ]
+    },
+    {
+      "position": "Junior - Odoo Developer (Freelancer)",
+      "company": "PetsEgypt",
+      "location": "Cairo, Egypt",
+      "year": "February 2024 - Present",
+      "responsibilities": [
+        "Design, Development research and testing of Odoo modules, projects, products and interfaces",
+        "Configuration, installation and maintenance of server",
+        "Design and develop Odoo apps (new module development, customization)"
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "name": "TechCare",
+      "description": "A comprehensive online project dedicated to improving patient care by offering healthcare services, including doctor and nurse finding, disease information, first aid guidance, and skin disease prediction",
+      "technologies": "Python, Django framework, Django Rest framework, PostgreSQL, HTML, CSS, JavaScript, Git"
+    },
+    {
+      "name": "Real Estate",
+      "description": "Odoo Module to manage properties and provide information about them, such as location, description, design, and more",
+      "technologies": "Python, Odoo, Rest APIs, PostgreSQL, Git"
+    }
+  ],
+  "skills": {
+    "programming_languages": {
+      "proficient": ["Python"],
+      "familiar": ["Java", "C/C++", "JavaScript"]
+    },
+    "frameworks": ["Odoo", "Django", "Django Rest framework"],
+    "frontend": ["HTML", "CSS", "JavaScript"],
+    "version_control": ["Git", "GitHub"],
+    "databases": ["PostgreSQL"],
+    "concepts": ["OOP", "Data Structures and Algorithms"],
+    "soft_skills": ["Time Management", "Teamwork", "Problem Solving", "Documentation"],
+    "languages": {
+      "English": "Professional proficiency",
+      "Arabic": "Native proficiency"
+    }
+  },
+  "personal_profile": "Software engineer specializing in backend development with extensive experience using Python and frameworks such as Django and Odoo. Also has experience in the software project lifecycle, including web frontend development, with basic understanding of machine learning models and fundamental computer science concepts."
+} 

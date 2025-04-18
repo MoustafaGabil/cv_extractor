@@ -1,0 +1,81 @@
+{
+  "name": "Soha Al Samaneh",
+  "email": "soha.ms84@gmail.com",
+  "phone": "+32 471607604",
+  "education": [
+    {
+      "degree": "Bachelor's in Computer Information Systems",
+      "institution": "Hashemite University",
+      "location": "Jordan",
+      "year": "2006"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "iHorizons",
+      "location": "Jordan",
+      "year": "Feb 2014 - Sep 2015",
+      "responsibilities": [
+        "Designed and developed web applications",
+        "Implemented robust software solutions",
+        "Collaborated with cross-functional teams"
+      ]
+    },
+    {
+      "position": "Senior Software Engineer",
+      "company": "Aspire-Services",
+      "location": "Jordan",
+      "year": "May 2008 - Dec 2013",
+      "responsibilities": [
+        "Led development of enterprise applications",
+        "Managed technical projects and client relationships",
+        "Implemented best practices for software development"
+      ]
+    },
+    {
+      "position": "Web Developer",
+      "company": "Aspire-Services",
+      "location": "Jordan",
+      "year": "June 2007 - May 2008",
+      "responsibilities": [
+        "Developed and maintained web applications",
+        "Created responsive and user-friendly interfaces",
+        "Collaborated with design and product teams"
+      ]
+    }
+  ],
+  "Projects": [
+    "Belgium Real Estate Price Analysis: Predictive Model for Belgian Real Estate Prices",
+    "Delivery Market Analysis: Conducted regional delivery data analysis using SQL and Python",
+    "Credit Card Churn Prediction: Built a classification ML model to predict customer churn"
+  ],
+  "skills": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "Scikit-learn",
+    "Power BI",
+    "GenAI",
+    "ASP .NET",
+    "C#",
+    "MVC",
+    "VB.NET",
+    "PL/SQL",
+    "Oracle 10g",
+    "JavaScript",
+    "JQuery",
+    "HTML",
+    "CSS",
+    "Ajax",
+    "Analytical thinking",
+    "Problem-solving",
+    "Team collaboration",
+    "Self-learning",
+    "Arabic (native)",
+    "English (very good)",
+    "Dutch (CVO-B1)"
+  ]
+} 

@@ -1,0 +1,116 @@
+{
+  "name": "Nicolaas De Clercq",
+  "email": "nicolaasdeclercq@hotmail.com",
+  "phone": "+32 474 / 17 86 16",
+  "location": "Oosterzele, Belgium",
+  "github": "https://github.com/NicolaasDC",
+  "education": [
+    {
+      "degree": "Concrete Technologist",
+      "institution": "Belgische Betongroepering",
+      "location": "Belgium",
+      "year": "2021"
+    },
+    {
+      "degree": "Bachelor in Chemistry",
+      "institution": "Kaho Sint-Lieven, Ghent",
+      "location": "Belgium",
+      "year": "2009-2013"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Data engineering trainee",
+      "company": "BeCode",
+      "location": "Ghent, Belgium",
+      "year": "2024-2025",
+      "responsibilities": []
+    },
+    {
+      "position": "Lab assistant",
+      "company": "EOC Group",
+      "location": "Oudenaarde, Belgium",
+      "year": "2022-2024",
+      "responsibilities": [
+        "Testing and analyzing production samples, and implementing adjustments based on results",
+        "Primary measurements: pH, viscosity, dry matter, and HPLC"
+      ]
+    },
+    {
+      "position": "Lab and Quality Officer",
+      "company": "Aannemingen De Witte",
+      "location": "Aalter, Belgium",
+      "year": "2020-2022",
+      "responsibilities": [
+        "Quality control of ready-mixed concrete, cement-bound mixtures, and recycled aggregates",
+        "Adjusting production parameters",
+        "Processing quality control results"
+      ]
+    },
+    {
+      "position": "Concrete Laboratory Technician",
+      "company": "OBBC",
+      "location": "Oosterzele, Belgium",
+      "year": "2019-2020",
+      "responsibilities": [
+        "Quality control of production samples (rheology, pH measurements, color, testing with Datacolor, etc.)",
+        "Making corrections or adjustments for deviations in rheology, texture, or color"
+      ]
+    },
+    {
+      "position": "QC Laboratory Technician",
+      "company": "DL Chemicals",
+      "location": "Waregem, Belgium",
+      "year": "2016-2019",
+      "responsibilities": []
+    },
+    {
+      "position": "All-Round Restaurant Worker",
+      "company": "Deluxe Burger",
+      "location": "Aalst, Belgium",
+      "year": "2014-2016",
+      "responsibilities": [
+        "Cooperated in family business",
+        "Welcoming and serving customers",
+        "Meal preparation",
+        "Inventory management and ordering",
+        "Managing personnel"
+      ]
+    },
+    {
+      "position": "Laboratory Technician",
+      "company": "Instituut voor Natuur- en Bosonderzoek",
+      "location": "Geraardsbergen, Belgium",
+      "year": "2013-2014",
+      "responsibilities": [
+        "Preparing soil samples for ICP analysis using microwave methods",
+        "Determining soil texture and residue ash content"
+      ]
+    }
+  ],
+  "Projects": [],
+  "skills": {
+    "technical": [
+      "Python",
+      "Webscraping",
+      "Data manipulation (Pandas, NumPy)",
+      "API development (FastAPI, Flask)",
+      "Docker",
+      "Machine learning (regression, evaluation, feature engineering)",
+      "Data visualization (Matplotlib, Seaborn, Plotly)",
+      "Databases (SQL, NoSQL)",
+      "Cloud basics (AWS, Azure)",
+      "ETL automation (Airflow, Spark, Kubernetes)"
+    ],
+    "soft": [
+      "Self-learning and curiosity",
+      "Critical Thinking",
+      "Adaptability"
+    ],
+    "languages": [
+      "Dutch: Native",
+      "English: Advanced",
+      "French: Proficient"
+    ]
+  }
+} 
