@@ -1,0 +1,66 @@
+{
+  "name": "Wouter Verhaeghe",
+  "email": "wouter_verhaeghe@hotmail.com",
+  "phone": "+32 496 84 90 01",
+  "education": [
+    {
+      "degree": "",
+      "institution": "Katholieke Universiteit Leuven",
+      "year": "09/2000 - 06/2004"
+    },
+    {
+      "degree": "Master in Master Modern",
+      "institution": "",
+      "year": ""
+    },
+    {
+      "degree": "Erasmus (Modern History)",
+      "institution": "",
+      "year": ""
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Warehouse Manager",
+      "company": "",
+      "location": "Bruges",
+      "year": "06/2021 - 05/2022"
+    },
+    {
+      "position": "Full Stack Developer (Ruby)",
+      "company": "Lichtvis",
+      "location": "",
+      "year": "01/2019 - 09/2023"
+    },
+    {
+      "position": "Co-founder and advisor for crypto, pre-sales, blockchain",
+      "company": "",
+      "location": "Bruges",
+      "year": "04/2012 - 12/2018"
+    },
+    {
+      "position": "Customer Fulfillment Administrator",
+      "company": "IBM",
+      "location": "",
+      "year": ""
+    },
+    {
+      "position": "Risk Management Administrator",
+      "company": "Dun & Bradstreet",
+      "location": "",
+      "year": ""
+    }
+  ],
+  "Projects": [
+    "Machine Learning Image Recognition System",
+    "BibInform) used by 5 book stores and dozens of libraries in Flanders"
+  ],
+  "skills": [
+    "Data Analysis",
+    "Responsibility",
+    "Problem Solving",
+    "FullStack Developer",
+    "Organizational Skills",
+    "Master in Master Modern"
+  ]
+}

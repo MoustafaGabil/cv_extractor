@@ -1,0 +1,78 @@
+{
+  "name": "Adheeba Thahsin",
+  "email": "adeebathahsin@gmail.com",
+  "work_experience": [
+    {
+      "title": "Research Engineer",
+      "organization": "IIT BOMBAY",
+      "duration": "September 2023 - March 2024"
+    },
+    {
+      "title": "Project Engineer",
+      "organization": "Indian Institute of Technology, BOMBAY",
+      "duration": "December 2021 - May 2022"
+    },
+    {
+      "title": "Project Engineer",
+      "organization": "Indian Institute of Technology, BOMBAY",
+      "duration": "September 2019 - January 2021"
+    },
+    {
+      "title": "Solution Engineer",
+      "organization": "Nokia Networks and Solutions",
+      "duration": "June 2018 - August 2019"
+    }
+  ],
+  "technical_skills": [
+    {
+      "name": "Programming Languages",
+      "values": [
+        "C",
+        "C++",
+        "Python",
+        "R",
+        "Java",
+        "Shell",
+        "Perl"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "values": [
+        "JIRA",
+        "Jenkins",
+        "Github",
+        "Git-Gerrit"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "values": [
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Database",
+      "values": [
+        "MySQL",
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    {
+      "name": "IDEs",
+      "values": [
+        "Visual Studio",
+        "Eclipse",
+        "IntelliJ IDEA"
+      ]
+    },
+    {
+      "name": "Build Automation Tool",
+      "values": [
+        "Apache Maven"
+      ]
+    }
+  ]
+}

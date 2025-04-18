@@ -1,0 +1,51 @@
+{
+  "name": "Urson Callens",
+  "email": "linkedin.com/in/urson.callens",
+  "phone": "",
+  "education": [
+    {
+      "degree": "AI & Data Science Trainee",
+      "institution": "BeCode, Belgium",
+      "year": "2024-2025"
+    },
+    {
+      "degree": "Postgraduate Digital Business Analyst",
+      "institution": "VIVES Business School Bruges, Belgium",
+      "year": "2023"
+    },
+    {
+      "degree": "MBA International and Sustainable Finance",
+      "institution": "KU Leuven, Belgium",
+      "year": "2017-2020"
+    },
+    {
+      "degree": "Extended Master Programma - MBA in Sustainable Finance",
+      "institution": "IIM Bangalore, India",
+      "year": "2019-2020"
+    },
+    {
+      "degree": "Bachelor in Marketing",
+      "institution": "University School of Ghent, Belgium",
+      "year": "2014-2017"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Market Intelligence Analyst",
+      "company": "TVH Parts | Waregem",
+      "location": "",
+      "year": "2021 - 2024"
+    }
+  ],
+  "Projects": [],
+  "skills": [
+    {
+      "technical": "Python, SQL, MS Excel, Tableau",
+      "frameworks": ""
+    },
+    {
+      "soft": "Leadership, Communication, Problem Solving",
+      "languages": "Dutch (Native), English (Advanced), French (Proficient)"
+    }
+  ]
+}

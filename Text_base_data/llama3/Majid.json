@@ -1,0 +1,58 @@
+{
+  "name": "Majid Askary",
+  "email": "m.askary84@yahoo.com",
+  "phone": "+32 479 44 44 30",
+  "education": [
+    {
+      "degree": "Master - Artificial Intelligence",
+      "institution": "Science and Research Branch University, Tehran, Iran",
+      "year": "September 2011 - December 2016"
+    },
+    {
+      "degree": "Bachelor - Computer Software",
+      "institution": "Azad University, Sepidan, Iran",
+      "year": "September 2005 - September 2008"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Administrator",
+      "company": "Ghent Handling & Distribution NV (KatoenNatie), Gent, Belgium",
+      "location": "",
+      "year": "January 2022 \u2010 March 2024"
+    },
+    {
+      "position": "Team Leader, BSO, Receiver, Picker",
+      "company": "General Service Antwerpen (KatoenNatie), Antwerpen, Belgium",
+      "location": "",
+      "year": "July 2019 - December 2021"
+    },
+    {
+      "position": "Sales Manager",
+      "company": "Asian Gohar-Gostaran Gemological Institute, Shiraz, Iran",
+      "location": "",
+      "year": "October 2016 - July 2017"
+    },
+    {
+      "position": "IT Expert",
+      "company": "Dehkhoda School, Shiraz, Iran",
+      "location": "",
+      "year": "September 2014 - May 2015"
+    }
+  ],
+  "Projects": [
+    "ImmoEliza Project",
+    "Title, (delivery market analysis with SQL)",
+    "Title, (credit card churn prediction)"
+  ],
+  "skills": [
+    {
+      "technical": "Python, scikit-learn, TensorFlow, SQL, NoSQL, AWS, Azure, Power BI, Excel, Git-GitHub",
+      "frameworks": ""
+    },
+    {
+      "soft": "Problem-Solving, Critical Thinking, Algorithm Design, Analytical Thinking, Adaptability, Collaboration, Communication, Curiosity, Time Management, Attention to Detail, Leadership",
+      "languages": "Persian: native, English: professional, Dutch: basic / A2, French: basic / A2"
+    }
+  ]
+}

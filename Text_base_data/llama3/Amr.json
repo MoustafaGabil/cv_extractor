@@ -1,0 +1,39 @@
+{
+  "name": "Amr Gebil",
+  "email": "amrgebil7@gmail.com",
+  "phone": "+201151762384",
+  "education": [
+    {
+      "degree": "Bachelor's degree in computer science and software Engineering",
+      "institution": "Zagazig University",
+      "year": "Sept 2019 \u2011 June 2023"
+    }
+  ],
+  "work experience": [
+    {
+      "position": "Mid level \u2011 Odoo Developer (Full Time)",
+      "company": "Nasser Al Sultan Holding Company",
+      "location": "Cairo, Egypt",
+      "year": "Sept 2024 \u2011 present"
+    },
+    {
+      "position": "Junior \u2011 Odoo Developer (Freelancer)",
+      "company": "PetsEgypt",
+      "location": "Cairo, Egypt",
+      "year": "February 2024 \u2011 Present"
+    }
+  ],
+  "Projects": [
+    "TechCare (Github link)",
+    "Real Estate(Github link)"
+  ],
+  "skills": [
+    {
+      "technical": "Python, Django, Odoo framework, Linux, PostgreSQL, Git",
+      "soft": "Time Management, Teamwork, Problem-solving, Documentation"
+    },
+    {
+      "languages": "English (Proficient), Arabic (Native)"
+    }
+  ]
+}

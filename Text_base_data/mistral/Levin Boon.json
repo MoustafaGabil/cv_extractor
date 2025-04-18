@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "email": "",
+  "phone": "",
+  "education": [],
+  "work experience": [],
+  "Projects": [],
+  "skills": [
+    {
+      "technical": [
+        "Python",
+        "SQL",
+        "GIT",
+        "BeautifulSoup",
+        "HTML"
+      ],
+      "frameworks": []
+    },
+    {
+      "soft": [
+        "problem solving"
+      ],
+      "languages": [
+        "English"
+      ]
+    }
+  ]
+}
